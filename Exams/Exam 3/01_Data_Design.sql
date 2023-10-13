@@ -97,3 +97,4 @@ CREATE TABLE creators_board_games(
 	ON UPDATE CASCADE
 	ON DELETE CASCADE
 );
+

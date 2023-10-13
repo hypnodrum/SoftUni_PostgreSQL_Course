@@ -21,3 +21,4 @@ WHERE id IN (
  
 DELETE FROM addresses
 WHERE town LIKE('L%');
+
